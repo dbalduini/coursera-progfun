@@ -1,0 +1,12 @@
+.DS_Store
+.metadata/
+/HelloWorld
+RemoteSystemsTempFiles/
+target/
+.cache
+.classpath
+.project
+lib_managed/
+project/
+.settings/
+.worksheet/
