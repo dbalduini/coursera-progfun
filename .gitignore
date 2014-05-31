@@ -6,4 +6,7 @@ target/
 .cache
 .classpath
 .project
-
+/lib_managed
+/project
+/.settings
+/.worksheet
