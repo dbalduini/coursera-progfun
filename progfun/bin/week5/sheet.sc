@@ -19,5 +19,4 @@ object sheet {
                                                   //| 
 	encode(data)                              //> res1: List[(String, Int)] = List((a,3), (b,1), (c,2), (a,1))
 
-
 }
