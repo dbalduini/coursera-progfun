@@ -3,6 +3,7 @@
 /HelloWorld
 RemoteSystemsTempFiles/
 target/
+bin/
 .cache
 .classpath
 .project
